@@ -1,1 +1,1 @@
-{"trim": "", "base": "2bada6a7", "trimbase": "", "parent": "debian/foxy/marti_perception_msgs", "previous": "268a9520"}
+{"base": "32e15a38", "parent": "debian/rolling/marti_perception_msgs", "previous": "ebf21156", "trim": "", "trimbase": ""}
